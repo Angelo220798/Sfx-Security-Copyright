@@ -9,5 +9,7 @@ La Compañía se reserva el derecho de actualizar estas Condiciones, que podremo
 Este bot no cuenta con 2 versiones. 
 No permitimos ningún tipo de plagio de este bot, cualquier tipo de plagio de este bot ara que no puedas publicar copias de este bot en algunos sitios para eso, cualquier copia / clon de este bot tendrá que usarse para uso personal y no uso público.
 
-Todos los derechos al creador
+
+
+
 ©️ 736776191700369533
