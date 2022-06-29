@@ -1,8 +1,10 @@
 # Sfx-Security
-Sfx seccurity bot / derechos de autor / condiciones 
+Sfx seccurity bot / derechos de autor / Privacidad
 
-# Condiciones
-La Compañía se reserva el derecho de actualizar estas Condiciones, que podremos hacer por razones que incluyen, entre otras, cumplir con los cambios en la legislación o reflejar las mejoras de Discord. Si los cambios afectan a su uso de Discord o a sus derechos legales, se lo notificaremos con una antelación de al menos siete días antes de que los cambios se apliquen. A menos que indiquemos lo contrario, si continúa usando el Servicio tras la publicación de las modificaciones, ello implicará su aprobación y aceptación de dichos cambios. Si se opone a los cambios, podrá optar por dejar de usar el Servicio.
+# Privacidad 
+El bot Sfx security guarda datos como "Mensajes, ID de usuarios y servidores,Tags para hacer posible que el antiraid , blacklist, antiflood funcionen.
+Sfx security ni ningún staff del bot no puede ir en contra de tu servidor, ya que nos encargamos de cuidar servidores
+
 
 # Intentos de plagio 
 
